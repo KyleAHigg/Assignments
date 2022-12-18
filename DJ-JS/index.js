@@ -44,3 +44,5 @@ window.addEventListener("wheel", function () {
 });
 
 window.addEventListener("keyup", colorPick);
+
+//endScript
